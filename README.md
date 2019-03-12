@@ -1,2 +1,2 @@
-# Oracle-ADF-12c---Commit2Code
+# Oracle-ADF-12c
 Self learning repository on Oracle ADF 12c
